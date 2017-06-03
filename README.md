@@ -1,5 +1,7 @@
 # darwin_metrics.pl
 
+stole from https://github.com/mackerelio/mackerel-agent/tree/master/metrics/darwin
+
 ```
 usage: ./darwin_metrics.pl (memory|cpuusage)
 ```
